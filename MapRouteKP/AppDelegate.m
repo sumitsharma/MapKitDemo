@@ -1,9 +1,9 @@
 //
-//  AppDelegate.m
+//  AppDelegate.h
 //  MapRouteKP
 //
-//  Created by kushal on 11/12/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Sumit Sharma on 11/12/12.
+//  Copyright (c) 2013 Flip Infotech. All rights reserved.
 //
 
 #import "AppDelegate.h"
